@@ -20,7 +20,7 @@
 
 ***
 ## Our vehicle: 
-![vehph](./robots-photos/Car_components.PNG)
+![vehph](./v-photos/Car_components.PNG)
 We used components from a EV3 MINDSTORMS Educational kit + a Pixy v2 Camera and some other technic pieces from other sets. 
 
 A full list of all the components (not including the camera) can be found here: [Part List](models/part-list.pdf)
@@ -45,7 +45,7 @@ Given the constraints of our compact vehicle dimensions (300x200x300mm) and the 
 
 The steering mechanism, located in the front, utilizes smaller wheels, while the driving mechanism at the rear incorporates larger Lego Technic wheels placed closely together.
 The placement of larger wheels at the rear serves multiple practical purposes. Larger wheels cover more ground per revolution, resulting in higher linear speed, which aligns with our priority for speed in the competition. Additionally, positioning the larger rear wheels as close to each other as possible, known as a "narrow rear track," mitigates the absence of a differential system. A narrow rear track minimizes the difference in wheel paths during turns, enhancing the vehicle's maneuverability and reducing wheel scrub.
-![render](./robots-photos/robot.render.jpeg)
+![render](./v-photos/robot.render.jpeg)
 ***
 
 ## Power and Sense Management
@@ -119,12 +119,12 @@ This regulator operates in real-time, continuously assessing the robot's positio
 ## Photos
 
 ### Vehicle Photos
-![vehph](./robots-photos/1.jpg)
-![vehph](./robots-photos/2.jpg)
-![vehph](./robots-photos/3.jpg)
-![vehph](./robots-photos/4.jpg)
-![vehph](./robots-photos/5.jpg)
-![vehph](./robots-photos/6.jpg)
+![vehph](./v-photos/1.jpg)
+![vehph](./v-photos/2.jpg)
+![vehph](./v-photos/3.jpg)
+![vehph](./v-photos/4.jpg)
+![vehph](./v-photos/5.jpg)
+![vehph](./v-photos/6.jpg)
 
 
 
