@@ -31,7 +31,11 @@ The 3D model (made in Studio 2.0) is available here: [3D Model](models/FE-Robot.
 
 Motor choice is a key part of our autonomous driving system. The EV3 kit includes Large and Medium motors. We evaluated both based on speed, torque, and encoder precision.
 
-![extract](./other/text.png)
+COMPARE THE TWO MOTORS:
+
+The Large Motor operates at a speed of 160–170 RPM, delivering a running torque of 20 N·cm and a stall torque of 40 N·cm. It is slower but provides greater power.
+
+The Medium Motor operates at a higher speed of 240–250 RPM, with a running torque of 8 N·cm and a stall torque of 12 N·cm. It is faster but has less torque.
 
 Large motors are powerful, but Medium motors are smaller and lighter, which saves space and improves responsiveness.
 Due to our robot's size limit (300x200x300mm) and the focus on speed, we chose three Medium motors: one for steering and two for driving.
