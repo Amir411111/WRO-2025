@@ -79,7 +79,6 @@ Obstacle handling is essential for autonomous navigation, especially during the 
 The Pixy v2 camera is used to detect red and green objects.
 With PixyMon, we calibrate the camera to recognize color signatures accurately, so the robot can reliably identify and differentiate obstacles.
 
-![pixymon](./other/pixymon.jpeg)
 
 ### Trajectory Calibration
 We test the robot by placing obstacles in known locations on the field and letting it drive around them.
