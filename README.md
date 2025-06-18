@@ -13,7 +13,7 @@
   * [Trajectory Calibration](#trajectory-calibration)
 * [**Photos**](#photos)
   * [Vehicle Photos](#vehicle-photos)
-* [**Performance Videos**](#performance-videos)
+* [**Robot Videos**](#robot-videos)
 
 ***
 ## Our vehicle:
@@ -89,7 +89,8 @@ From the graph, we build an exponential function that describes the ideal path f
 
 
 
-
+### Robot Videos
+ 
 ## Photos
 
 ### Vehicle Photos
