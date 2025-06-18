@@ -20,6 +20,7 @@
 We built the robot using parts from the EV3 MINDSTORMS Education kit, a Pixy v2 camera, and additional LEGO Technic pieces.
 
 Full assembly instructions can be found here: [Instruction](models/Robot_Instruction.pdf)
+***
 The 3D model (made in Studio 2.0) is available here: [3D Model](models/FE-Robot.io)
  
 ***
