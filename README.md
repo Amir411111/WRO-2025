@@ -21,7 +21,7 @@
 ## Our vehicle: 
 We used components from a EV3 MINDSTORMS Educational kit + a Pixy v2 Camera and some other technic pieces from other sets. 
 
-A full list of all the components (not including the camera) can be found here: [Part List](models/part-list.pdf)
+A full insfor robot building can be found here: [Instruction](models/Robot_Instruction.pdf)
 
 A 3D model of the robot made in Studio 2.0 can be found here: [3D Model](models/FE-Robot.io)
 
