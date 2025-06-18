@@ -90,9 +90,6 @@ This regulator operates in real-time, continuously assessing the robot's positio
 
 ![program](./other/program.jpeg)
 
-### Pseudo Code
-
-
 ***
 
 ## Photos
