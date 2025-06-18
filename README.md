@@ -8,7 +8,6 @@
   * [Chassis Design and Implementation](#chassis-design-and-implementation)
 * [**Power and Sense Management**](#power-and-sense-management)
   * [Sensor Management](#sensor-management)
-  * [Power Management](#power-management)
 * [**Obstacle Management**](#obstacle-management)
   * [Sensor-Based Obstacle Detection](#Sensor-Based-Obstacle-Detection)
   * [Trajectory Calibration](#trajectory-calibration)
@@ -60,29 +59,11 @@ Gyro Sensor: The gyro sensor plays a pivotal role in maintaining proper alignmen
 
 The PID regulator operates in a continuous loop throughout the program, ensuring the vehicle remains aligned and on the intended path, supporting its autonomous navigation capabilities.
 
-Pixy v2 Camera: A camera is used to detect and differentiate obstacles during the obstacle round. Custom made 3D Print Models for the [cover](models/pixy_2_cover.stl) and the [case](models/pixy_2_case.stl) for the camera can be found in the corresponding links.
+Pixy v2 Camera: A camera is used to detect and differentiate obstacles during the obstacle round.
 
 ### Power Management
 The power for the EV3 Brick and the whole vehicle comes from a rechargeable 10V Lithium Battery. Power management within the EV3 brick consists of multiple switching regulations which are tightly controlled and interlinked in order to boot the electronic circuit correctly.
 To protect the EV3 brick from short circuit, 3 poly switches are included, one for each of the two motor drivers and one for the rest of the circuit. Each poly switch has a hold current at approximately 1.1 A and will be triggered at approximately 2.2 A.
-
-Power Schemes for every electronic part of the vehicle can be found here:
-
-[Color Sensor](schemes/color_sens.pdf)
-
-[Gyro Sensor](schemes/gyro_sens.pdf)
-
-[Medium Motor](schemes/medium-motor.pdf)
-
-[Pixy v2](schemes/pixy2_schematic-2.2.pdf)
-
-[Ultrasonic Sensor](schemes/ultrasonic-sensor.pdf)
-
-[EV3 P-Brick](schemes/program_brick.pdf)
-
-[Rechargeable Battery](recharge_battery.pdf)
-
-[Ultrasonic Sensor](schemes/ultrasonic_sens.pdf)
 
 ***
 
